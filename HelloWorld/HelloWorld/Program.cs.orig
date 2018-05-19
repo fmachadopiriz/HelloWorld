@@ -11,7 +11,11 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+<<<<<<< HEAD
+            Console.WriteLine("Changed line!");
+=======
             Console.WriteLine("Another line!");
+>>>>>>> ab1879b8ea605d8e5ed8762b2e438f0ec62edb7f
             Console.ReadKey();
             Console.WriteLine();
         }
